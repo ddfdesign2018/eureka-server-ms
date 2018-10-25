@@ -12,5 +12,6 @@ public class EurekaServerMsPApplication {
 
 		SpringApplication.run(EurekaServerMsPApplication.class, args);
 		System.out.println();
+		System.out.println();
 	}
 }
